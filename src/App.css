@@ -1,0 +1,24 @@
+::-webkit-scrollbar {
+    width: 7px;
+    border-radius: 20px;
+  }
+  /* Track */
+::-webkit-scrollbar-track {
+    background: #f1f1f1; 
+  }
+   
+  /* Handle */
+  ::-webkit-scrollbar-thumb {
+    background: #9e9d9d42; 
+  }
+  
+  /* Handle on hover */
+  ::-webkit-scrollbar-thumb:hover {
+    background: #555; 
+  }
+  .css-10hburv-MuiTypography-root{
+    font-size: 20px !important;
+  }
+  ul#nav li a:hover,ul#nav li a:active{    
+    color: red !important;
+  }
